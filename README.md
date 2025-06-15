@@ -4,7 +4,8 @@ Bu projede, içerik tabanlı filtreleme (content-based filtering) yaklaşımıyl
 
 ## Veri Seti
 
-Kaynak: [Kaggle](https://www.kaggle.com/datasets)  
+Kaynak: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
+Veri seti doğru mu emin değilim ama hepsi aynı işlevi görürzaten.
 Veri kümesinde film adı, yönetmen, oyuncular, açıklama ve tür gibi temel nitelikler yer almaktadır.
 
 ## Proje Aşamaları
